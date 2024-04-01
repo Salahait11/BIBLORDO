@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aitha\\OneDrive\\Bureau\\mini projet 2024\\BIBLORDO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E304EA-6138-44C6-B477-2D6932287226}|BIBLORDO\\BIBLORDO.csproj|c:\\users\\aitha\\onedrive\\bureau\\mini projet 2024\\biblordo\\biblordo\\bl\\cls_books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E304EA-6138-44C6-B477-2D6932287226}|BIBLORDO\\BIBLORDO.csproj|solutionrelative:biblordo\\bl\\cls_books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 67,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CLS_BOOKS.cs",
+              "DocumentMoniker": "C:\\Users\\aitha\\OneDrive\\Bureau\\mini projet 2024\\BIBLORDO\\BIBLORDO\\BL\\CLS_BOOKS.cs",
+              "RelativeDocumentMoniker": "BIBLORDO\\BL\\CLS_BOOKS.cs",
+              "ToolTip": "C:\\Users\\aitha\\OneDrive\\Bureau\\mini projet 2024\\BIBLORDO\\BIBLORDO\\BL\\CLS_BOOKS.cs*",
+              "RelativeToolTip": "BIBLORDO\\BL\\CLS_BOOKS.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T23:08:03.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
